@@ -15,6 +15,7 @@ DeliverEat es un software en la web desarrollado con Laravel en monolito que per
 1. Descarga el repositorio
 2. Configura en el archivo .env
 3. Ejecuta los siguientes comandos
+   
    ```
     php artisan migrate
     npm install
