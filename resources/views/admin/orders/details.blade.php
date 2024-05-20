@@ -10,7 +10,7 @@
     </style>
 @endsection
 
-@section('title',"Productos")
+@section('title',"Detalles del pedido")
 
 
 @section('content')

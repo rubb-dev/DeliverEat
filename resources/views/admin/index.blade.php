@@ -3,7 +3,7 @@
 @section('title',"Home")
 
 
-@section('content')
+@section('Panel de administrador')
 
     <section class=" ml-44 flex flex-col justify-center p-14 gap-32">
         <div class="flex flex-col gap-1">

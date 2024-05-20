@@ -1,6 +1,6 @@
 @extends('layouts.landing')
 
-@section('title',"Productos")
+@section('title',"Pedidos")
 
 
 @section('content')
