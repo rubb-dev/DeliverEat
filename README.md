@@ -5,10 +5,10 @@ DeliverEat es un software en la web desarrollado con Laravel en monolito que per
 
 ## Tecnologías utilizadas
 
-*Laravel 11.0
-*TailwindCSS 3.4.3
-*Stripe
-*MySql
+* Laravel 11.0
+* TailwindCSS 3.4.3
+* Stripe
+* MySql
 
 ## Para iniciar el proyecto
 
